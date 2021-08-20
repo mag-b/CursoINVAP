@@ -1,4 +1,5 @@
 # Guía de Ejercicios
+
 Ejercicios de aplicación de NumPy. Varios de ellos se utilizarán más adelante en la materia como parte de problemas más grandes.
 
 #### Ejecicio #1:    Operaciones Matriciales
@@ -63,5 +64,4 @@ truth_relevance =  [T, F, T, F, T, T, T, F, F, F, F, F, T, F, F, T]
 * Precision para q_id 4 = 2 / 4
 
 **_average query precision_** = ((2/4) + (3/3) + (0/5) + (2/4)) / 4
-
 
